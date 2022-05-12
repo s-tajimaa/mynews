@@ -1,7 +1,7 @@
 @extends('layouts.front')
 
 @section('content')
- <h1>見出し</h1>
+ <h1>見出し1</h1>
     <div class="container">
         <hr color="#c0c0c0">
         @if (!is_null($headline))
